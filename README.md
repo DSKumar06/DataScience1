@@ -1,2 +1,2 @@
 # DataScience1
-Repository with all Data Science project related documents
+This repository is with all Data Science project related documents.
