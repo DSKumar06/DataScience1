@@ -8,6 +8,7 @@ The file EastWestAirlinescontains information on passengers who belong to an air
 ID --Unique ID
 
 
+
 Balance--Number of miles eligible for award travel
 
 Qual_mile--Number of miles counted as qualifying for Topflight status
